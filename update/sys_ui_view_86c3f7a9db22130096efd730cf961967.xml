@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>subscription_allocation</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-07 14:37:57</sys_created_on>
+        <sys_id>86c3f7a9db22130096efd730cf961967</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Subscription_allocation</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_view_86c3f7a9db22130096efd730cf961967</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 14:37:57</sys_updated_on>
+        <title>Subscription_allocation</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
